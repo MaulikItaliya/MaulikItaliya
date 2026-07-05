@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Maulik%20Italiya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Embedded%20Hardware%20|%20PCB%20Design%20|%20Embedded%20Systems&descAlignY=63"/>
