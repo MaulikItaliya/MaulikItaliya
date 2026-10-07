@@ -1,154 +1,70 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Maulik%20Italiya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Embedded%20Hardware%20|%20PCB%20Design%20|%20Embedded%20Systems&descAlignY=63"/>
+# Maulik Italiya
 
-# Hi 👋, I'm Maulik Italiya
+**Embedded Hardware & PCB Design Engineer**
+M.Sc. Embedded Systems Design · Germany
 
-### M.Sc. Embedded Systems Student | Embedded Hardware & PCB Design Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Embedded+Hardware+Designer;PCB+Design+with+Altium+Designer;ESP32+%7C+Arduino+Developer;Power+Electronics+Enthusiast;Learning+STM32+and+High-Speed+PCB+Design"/>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 👨‍💻 About Me
-
-<div align="center">
-
-🎓 Master's Student in **Embedded Systems Design**
-
-📍 Based in Germany
-
-🔧 Passionate about **Embedded Hardware, PCB Design & Power Electronics**
-
-💡 Interested in Embedded Systems, PCB Layout, Hardware Development & Microcontrollers
-
-🌱 Currently learning **STM32**, **Signal Integrity** and **High-Speed PCB Design**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulik-italiya/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maulikitaliya0@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+## About
 
-## 🚀 Featured Projects
+I design embedded systems from schematic to assembled board and firmware: microcontroller platforms, mixed-signal circuits, low-power wireless nodes, power electronics and 4-layer PCB layout. I am a Master's student in Embedded Systems Design at Hochschule Bremerhaven and work as a Research Intern at ABB Sensor Solutions in Mannheim, focusing on low-power electronics and wireless sensor prototyping.
 
-### 🔹 ESP32-C3 Development Board
-- 4-Layer PCB
-- USB Type-C Interface
-- RF Layout
-- Power Management
-- Hand Assembled & Tested
-
-### 🔹 Arduino Uno Development Board
-- ATmega328P
-- 5V & 3.3V Power Supplies
-- USB Programming Interface
-- Complete Schematic & PCB Layout
-- Hand Assembled
-
-### 🔹 LTspice Circuit Simulations
-- DC-DC Converter Design
-- Analog Circuits
-- Filters
-- Power Electronics
+**Currently:** deepening my knowledge of STM32, signal integrity and high-speed PCB design.
 
 ---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+## Featured Projects
 
-## 🛠 Technical Stack
+### Hardware & PCB Design
 
-<div align="center">
+| Project | Description | Tools |
+|---|---|---|
+| [**Mixed-Signal Board (STM32F407)**](https://github.com/MaulikItaliya/Mixed-Signal-Board) | 4-layer control board with 10/100 Ethernet, 2× DRV8701 motor drivers (36 W each), 24-bit load-cell ADC, stereo audio DAC with microphone, USB-UART and an on-board JTAG/SWD debugger. | Altium Designer |
+| [**ESP32-C3 Development Board**](https://github.com/MaulikItaliya/ESP32-C3-Development-Board) | 4-layer PCB with USB Type-C, inverted-F antenna RF layout and power management. Hand-assembled and tested. | Altium Designer |
+| [**Arduino-Compatible Board**](https://github.com/MaulikItaliya/Custom-Arduino-Compatible-Board-Design-Altium-) | End-to-end design of an ATmega328P-based board: schematic capture, PCB layout, routing and manufacturing files, with 5 V / 3.3 V supplies and USB programming. Hand-assembled. | Altium Designer |
 
-### PCB Design
+### Embedded Systems & Control
 
-<img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+| Project | Description | Tools |
+|---|---|---|
+| [**BLE Low-Power Device**](https://github.com/MaulikItaliya/BLE-Low-Power-Device) | BLE 5.0 low-power sensor node with solar energy harvesting, built on the EFR32BG13 and BQ25570. | EFR32BG13, BQ25570 |
+| [**Multi-Reactor pH Regulation Controller**](https://github.com/MaulikItaliya/MultiReactor-pHRegulation-Controller) | Industrial multi-reactor pH controller with real hardware control and safety logic. | Python |
+| [**Active Magnetic Bearing (AMB)**](https://github.com/MaulikItaliya/MATLAB-AMB) | System modeling, magnetic force computation, sensor feedback and PID-based control for rotor levitation and stability. | MATLAB, Simulink |
 
-### Programming
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,vscode"/>
-
-### Embedded Platforms
-
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-
-### Communication Protocols
-
-<img src="https://img.shields.io/badge/UART-1E3A5F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SPI-1E3A5F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/I2C-1E3A5F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CAN_Bus-1E3A5F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/USB-1E3A5F?style=for-the-badge"/>
-
-### Hardware & Lab Tools
-
-<img src="https://img.shields.io/badge/Oscilloscope-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Logic%20Analyzer-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20Analyzer-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Function%20Generator-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multimeter-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hand%20Soldering-4CAF50?style=for-the-badge"/>
-
-</div>
+<!-- Optional: add a link here if your LTspice simulations (DC-DC converter, analog circuits, filters) are in a repo. -->
 
 ---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+## Skills
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaulikItaliya&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaulikItaliya&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=MaulikItaliya&theme=github-dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MaulikItaliya&theme=algolia&no-frame=true&column=4"/>
-
-</div>
+| Area | Tools and technologies |
+|---|---|
+| **PCB & EDA** | Altium Designer, LTspice, MATLAB / Simulink |
+| **Microcontrollers** | STM32, ESP32, EFR32 (BLE), ATmega / Arduino |
+| **Design focus** | 4-layer PCB layout, RF/antenna layout, mixed-signal partitioning, power management, low-power design, energy harvesting |
+| **Interfaces** | UART, SPI, I²C, I²S, CAN, USB, Ethernet (MII), BLE |
+| **Software & control** | C, C++, Python, PID control, Git, VS Code, LaTeX |
+| **Lab & assembly** | Oscilloscope, logic analyzer, power analyzer, function generator, multimeter, hand soldering |
 
 ---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+## Education
 
-## 📫 Connect With Me
+**M.Sc. Embedded Systems Design**: Hochschule Bremerhaven (since 2025)
+**B.E. Electronics & Communication Engineering**: VGEC, India (2020–2024)
 
-<div align="center">
+**Languages:** English (C1) · German (B1) · Hindi · Gujarati
 
-<a href="https://www.linkedin.com/in/maulik-italiya/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="mailto:maulikitaliya0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## Contact
 
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0F2027,50:203A43,100:2C5364"/>
+- LinkedIn: [maulik-italiya](https://www.linkedin.com/in/maulik-italiya/)
+- Email: [maulikitaliya0@gmail.com](mailto:maulikitaliya0@gmail.com)
