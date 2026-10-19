@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Maulik%20Italiya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Hardware%20%7C%20PCB%20Design%20%7C%20Embedded%20Systems&descAlignY=62&descSize=20" width="100%" alt="Maulik Italiya banner"/>
 
